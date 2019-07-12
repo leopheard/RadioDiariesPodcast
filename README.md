@@ -1,11 +1,13 @@
 () Radio Diaries Podcast<br>
 =============================
 
-KODI / XBMC / Firestick addon for the audio podcasts from The Radio Diaries
+KODI / XBMC / Firestick audio addon for the audio podcasts from The Radio Diaries
 
-http://www.radiodiaries.org/
+<a href="http://www.radiodiaries.org/">RadioDiaries.org</a>
 
 #RadioDiaries
+#NPR
+#PRX
 
 To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.
 
